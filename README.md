@@ -6,6 +6,9 @@
 	+ Birth date is limited from 17 to 35 years old
 	+ Input box First name, first input character, and characters behind the auto-capital space
 
+- Technical Stack
+	+ .NET Windows Forms (C#)
+	+ SQL Server
 
 ## Demo
 <p align="center">
